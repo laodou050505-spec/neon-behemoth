@@ -1,0 +1,2 @@
+var v = Object.FindAnyObjectByType<Monster.Game.GameView>(); var g = v.game; int alive = 0; foreach (var e in g.enemies) if (!e.dead) alive++;
+result.Log("t=" + g.time.ToString("F2") + " winT=" + g.winT.ToString("F2") + " result=" + g.result + " held=" + g.held.Count + " flying=" + g.flying.Count + " enemies=" + alive + " proj=" + g.projectiles.Count + " stars=" + g.stars + " nukeT=" + g.nukeT.ToString("F1") + " rs=" + (Object.FindAnyObjectByType<Monster.Game.ResultScreen>() != null));

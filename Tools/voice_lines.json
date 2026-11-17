@@ -1,0 +1,16 @@
+{
+  "_说明": "《霓虹巨兽》广播台词：霓湾市应急广播 + 防卫指挥官拿扩音器朝巨兽喊话（真人指挥官远程喊话，不是 AI 播报）。措辞按真实应急广播 / 警方喊话 / 无线电通话的习惯：先呼叫对象、短句、命令式、关键内容重复一遍。键 = 触发点；生成：Tools/voice_gen.py",
+  "start":       {"zh": "霓湾市应急广播，现在播发紧急通告。巨型不明生物已进入市区，全市一级戒备。巨兽，你听好了：立即离开霓湾，否则我方将实施核打击。重复一遍，立即离开！", "en": "This is the Neon Bay Emergency Broadcast. A giant unidentified creature has entered the city. All districts are on full alert. Creature, listen up: leave Neon Bay now, or we will authorize a nuclear strike. I say again, leave now!"},
+  "leave1":      {"zh": "前方巨兽请注意！你已进入管制区，立即停止破坏，原路退回海湾！", "en": "Attention, creature! You are in a restricted zone. Cease destruction and return to the bay at once!"},
+  "leave2":      {"zh": "警告！把那栋楼放下！马上撤出城区！", "en": "Warning! Put that building down! Withdraw from the city, now!"},
+  "leave3":      {"zh": "这里是防卫指挥部。巨兽，这是最后一次喊话：立即离开，否则后果自负！", "en": "This is Defense Command. Creature, this is your last warning: leave immediately, or face the consequences!"},
+  "reinforce":   {"zh": "指挥部通报：通缉等级上调，增援部队已经出动。", "en": "Command to all units: threat level raised. Reinforcements are rolling out."},
+  "tower":       {"zh": "紧急通报！封印塔失守！各单位注意，集中火力，给我拦住它！", "en": "Emergency! A seal tower is down! All units, concentrate fire and hold it back!"},
+  "weak":        {"zh": "各单位注意，目标已经受伤。不要停火，继续压制！", "en": "All units, the target is wounded. Do not let up. Keep firing!"},
+  "nuke60":      {"zh": "全城广播：核打击程序已启动，倒计时六十秒。这是最后通牒。", "en": "Citywide alert: nuclear strike sequence initiated. Sixty seconds. This is your final ultimatum."},
+  "nuke30":      {"zh": "倒计时，三十秒。", "en": "Thirty seconds."},
+  "nuke10":      {"zh": "十秒！各单位立即脱离！", "en": "Ten seconds! All units, clear the area!"},
+  "nuke_launch": {"zh": "核弹已发射。重复，核弹已发射！", "en": "Missile away. I say again, missile away!"},
+  "down":        {"zh": "指挥部通报，目标已停止活动。解除警报。", "en": "Command to all units: the target is down. Stand down the alert."},
+  "win":         {"zh": "指挥部……封印塔全部失守……我们拦不住它。全员撤离，重复，全员撤离！", "en": "Command... all seal towers are lost... we can't stop it. All personnel, evacuate. I say again, evacuate!"}
+}
